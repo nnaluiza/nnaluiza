@@ -4,22 +4,20 @@
  </div>
 <hr>
 
-<div align="left">  
+<div align="left">
   <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A"
-    alt="MeAnnaLuiza" 
-    bg_color=#808080    
+    alt="MeAnnaLuiza"
+    bg_color=#808080
     style="width: 39%;"/>
 </div>
 
-<div align="right">  
+<div align="right">
   <img align="right"
     src="https://streak-stats.demolab.com/?user=MeAnnaLuiza&theme=highcontrast"
     alt="MeAnnaLuiza"
     style="width: 54%;"/>
 </div>
-
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=MeAnnaLuiza&theme=highcontrast)](https://git.io/streak-stats)-->
 
 
 <!--
