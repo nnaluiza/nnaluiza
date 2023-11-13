@@ -4,29 +4,22 @@
  </div>
 <hr>
 
-<div align="center">  
-  <img align="center"
+<div align="left">  
+  <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A"
     alt="MeAnnaLuiza" 
-    bg_color=#808080/>
+    bg_color=#808080    
+    style="width: 39%;"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MeAnnaLuiza&theme=highcontrast)](https://git.io/streak-stats)
-
-<div style="display: flex; justify-content: center;">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A"
-    alt="MeAnnaLuiza" 
-    bg_color=#808080/>
-
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img
-      src="https://streak-stats.demolab.com/?user=MeAnnaLuiza&theme=highcontrast"
-      alt="GitHub Streak"
-      style="width: 450px; margin-left: 20px;"
-    />
-  </a>
+<div align="right">  
+  <img align="right"
+    src="https://streak-stats.demolab.com/?user=MeAnnaLuiza&theme=highcontrast"
+    alt="MeAnnaLuiza"
+    style="width: 54%;"/>
 </div>
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=MeAnnaLuiza&theme=highcontrast)](https://git.io/streak-stats)-->
 
 
 <!--
