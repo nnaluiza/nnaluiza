@@ -6,7 +6,7 @@
 <hr>
 
 <div>
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A&hide=jupyter%20notebook" alt="Top Langs" width="40.5%"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A&hide=jupyter%20notebook" alt="Top Langs" width="40%"/>
     <img align=top src="https://streak-stats.demolab.com?user=MeAnnaLuiza&theme=highcontrast&card_width=500" alt="GitHub Streak"/>
 <div>
 
