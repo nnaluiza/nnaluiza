@@ -4,6 +4,7 @@
  </div>
 <hr>
 
+<div style="display: flex; align-items: center;">
 <div align="left">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A&hide=jupyter%20notebook">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A&hide=jupyter%20notebook" alt="Top Langs" />
@@ -13,7 +14,7 @@
 <div align="right">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MeAnnaLuiza&theme=highcontrast&card_width=500" alt="GitHub Streak" /></a>
 </div>
-
+</div>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
