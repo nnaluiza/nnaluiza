@@ -5,11 +5,9 @@
 <hr>
 
 <div align="left">
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A"
-    alt="MeAnnaLuiza"
-    bg_color=#808080
-    style="width: 36%;"/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A&hide=jupyter%20notebook">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A&hide=jupyter%20notebook" alt="Top Langs" />
+</a>
 </div>
 
 <div align="right">
@@ -17,6 +15,8 @@
 </div>
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 > [!IMPORTANT]\
 > We're a small team, and to prioritize, we rely on upvotes :+1:. We use Top issues dashboard for tracking community demand (see [#1935](https://github.com/anuraghazra/github-readme-stats/issues/1935)). Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
 
