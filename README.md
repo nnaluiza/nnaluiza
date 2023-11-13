@@ -11,7 +11,7 @@
 </div>
 
 <div align="right">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MeAnnaLuiza&theme=highcontrast&card_width=585" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MeAnnaLuiza&theme=highcontrast&card_width=500" alt="GitHub Streak" /></a>
 </div>
 
 <!--
