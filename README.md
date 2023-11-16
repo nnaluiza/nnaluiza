@@ -15,7 +15,7 @@
       
   <img align="left" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   
-  <span float="right"><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/></span>
+  <!--<span float="right"><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/></span>-->
   
   <span float="right"> <img src="https://komarev.com/ghpvc/?username=MeAnnaLuiza&label=Profile%20views&color=blueviolet&style=flat" alt="MeAnnaLuiza" /> </span>
  </div>
