@@ -27,7 +27,6 @@
 <div>
 
 <!-- O QUE MAIS ADICIONAR-->
-<!-- Adicionae sobre mim?-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeAnnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
