@@ -30,7 +30,7 @@
     <img align=top src="https://streak-stats.demolab.com?user=MeAnnaLuiza&theme=highcontrast&card_width=500" alt="GitHub Streak"  width="450px" heigth="250px"/>
 <div>
 
-<!--REFAZER README-->
+<!--REFAZER README AMANHA-->
 <!--
 
 > [!IMPORTANT]\
