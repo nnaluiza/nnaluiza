@@ -23,13 +23,13 @@
   
   <!--<span float="right"><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/></span>-->
   
-  <span float="right"> <img src="https://komarev.com/ghpvc/?username=nnaLuiza&label=Profile%20views&color=blueviolet&style=flat" alt="nnaLuiza" /> </span>
+  <span float="right"> <img src="https://komarev.com/ghpvc/?username=nnaluiza&label=Profile%20views&color=blueviolet&style=flat" alt="nnaluiza" /> </span>
  </div>
 <hr>
 
 <div>
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnaLuiza&layout=compact&theme=dark&bg_color=0A0A0A&hide=jupyter%20notebook,lex" alt="Top Langs" width="330px" heigth="250px"/>
-    <img align=top src="https://streak-stats.demolab.com?user=nnaLuiza&theme=highcontrast&card_width=500" alt="GitHub Streak"  width="450px" heigth="250px"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnaluiza&layout=compact&theme=dark&bg_color=0A0A0A&hide=jupyter%20notebook,lex" alt="Top Langs" width="330px" heigth="250px"/>
+    <img align=top src="https://streak-stats.demolab.com?user=nnaluiza&theme=highcontrast&card_width=500" alt="GitHub Streak"  width="450px" heigth="250px"/>
 <div>
 
 
